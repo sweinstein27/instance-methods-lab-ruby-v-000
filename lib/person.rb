@@ -1,4 +1,4 @@
-class person
+class Person
 end
 
 def talk
